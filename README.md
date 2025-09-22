@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Berke</h1> 
 
-- 👨🏻‍🎓 Software Engineering Student 
+- 👨🏻‍🎓 Software Engineering Student
+
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## 📫 How to reach me:
 
