@@ -4,9 +4,9 @@
 
 ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•
 
-## 📌 TechStack: 
+## 📌 Tech Stack: 
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,maven,docker,swift)](https://skillicons.dev)
 
 ## 📫 How to reach me:
 
