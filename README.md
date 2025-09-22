@@ -6,7 +6,7 @@
 
 ## 📌 Tech Stack: 
 
- [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,maven,docker,swift)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,maven,docker)](https://skillicons.dev)
 
 ## 📫 How to reach me:
 
