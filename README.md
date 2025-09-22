@@ -2,6 +2,8 @@
 
 - 👨🏻‍🎓 Software Engineering Student
 
+## 📌 TechStack: ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•
+
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## 📫 How to reach me:
