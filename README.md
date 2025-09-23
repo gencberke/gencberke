@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Berke</h1> 
 
-👨🏻‍🎓 Software Engineering Student
-
 ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•
+
+👨🏻‍🎓 Software Engineering Student
 
 # 📌 Tech Stack: 
 
