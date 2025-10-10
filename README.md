@@ -4,8 +4,8 @@
 
 👨🏻‍🎓 Software Engineering Student
 🌱 I contunie learning everyday:
-       -> Java, Spring Boot, Python
-       -> HTML, CSS, JavaScript, React
+	-> Java, Spring Boot, Python
+	-> HTML, CSS, JavaScript, React
 
 # 📌 Tech Stack: 
 
