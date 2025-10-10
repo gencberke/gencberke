@@ -2,9 +2,9 @@
 
 ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•
 
-👨🏻‍🎓 Software Engineering Student
-🌱 I contunie learning everyday:
-	-> Java, Spring Boot, Python
+👨🏻‍🎓 Software Engineering Student\
+🌱 I contunie learning everyday:\
+	-> Java, Spring Boot, Python\
 	-> HTML, CSS, JavaScript, React
 
 # 📌 Tech Stack: 
