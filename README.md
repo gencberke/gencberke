@@ -16,7 +16,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,maven,docker)](https://skillicons.dev)
 
----
 
 ### 🌿 Find Me on Other Platforms
 
@@ -32,7 +31,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" height="40" width="40" alt="LinkedIn"/>
 </a>
 
----
 
 ### 📫 How to Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/gencberke/)
