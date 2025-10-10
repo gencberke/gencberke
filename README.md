@@ -8,11 +8,15 @@
 
 🌱 **I continue learning every day:**
 - Java, Spring Boot, Python  
-- HTML, CSS, JavaScript, React  
+- HTML, CSS, JavaScript, React
+  
+---
 
-### 📌 Tech Stack
+## 📌 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,maven,docker)](https://skillicons.dev)
+
+---
 
 ### 🌿 Find Me on Other Platforms
 
@@ -28,11 +32,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" height="40" width="40" alt="LinkedIn"/>
 </a>
 
+---
+
 ### 📫 How to Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/gencberke/)
 - 🐦 [X (Twitter)](https://x.com/berkegencdev)
 - 📧 [berkegenc.dev@gmail.com](https://mail.google.com/mail/?view=cm&to=berkegenc.dev@gmail.com)
+  
 ---
+
 ### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gencberke&layout=compact&theme=gruvbox&hide_border=true&show_icons=true&hide=C,CMake)
