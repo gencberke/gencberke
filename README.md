@@ -7,8 +7,8 @@
 👨🏻‍🎓 **Software Engineering Student**
 
 🌱 **I continue learning every day:**
-- Java, Spring Boot, Python  
-- HTML, CSS, JavaScript, React
+- Java, Spring Boot
+- Python, Pytorch
   
 ---
 
