@@ -41,6 +41,3 @@
   
 ---
 
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gencberke&layout=compact&theme=gruvbox&hide_border=true&show_icons=true&hide=C,CMake)
