@@ -7,14 +7,13 @@
 👨🏻‍🎓 **Software Engineering Student**
 
 🌱 **I continue learning every day:**
-- Java, Spring Boot
-- Python, Pytorch
+- Java, Spring Boot, Backend Development
   
 ---
 
 ## 📌 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,java,spring,postgres,mysql,maven,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,maven,docker)](https://skillicons.dev)
 
 &nbsp;
 
