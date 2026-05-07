@@ -20,16 +20,13 @@
 ### 🌿 Find Me on Other Platforms
 
 <a href="https://medium.com/@gencberke" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="40" width="40" alt="Medium"/>
-</a>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="40" width="40" alt="Medium"> </a>
 &nbsp;
 <a href="https://x.com/berkegencdev" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" height="40" width="40" alt="X (Twitter)"/>
-</a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" height="40" width="40" alt="X (Twitter)"> </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/gencberke/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" height="40" width="40" alt="LinkedIn"/>
-</a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" height="40" width="40" alt="LinkedIn"> </a>
 
 &nbsp;
 
