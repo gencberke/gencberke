@@ -8,6 +8,7 @@
 
 🌱 **I continue learning every day:**
 - Java, Spring Boot, Backend Development
+- Python, NLP, Computer Vision, Model Training, Deeplearning, Machine Learning
   
 ---
 
