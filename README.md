@@ -15,7 +15,7 @@
   ·
   <a href="https://medium.com/@gencberke">Medium</a>
   ·
-  <a href="mailto:[berkegenc.dev@gmail.com](mailto:berkegenc.dev@gmail.com)">Email</a>
+  <a href="mailto:berkegenc.dev@gmail.com">Email</a>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 
 I'm a Software Engineering student interested in building reliable software systems and understanding the reasoning behind them.
 
-My foundation is in **Java, Spring Boot, and backend development**. More recently, I have been focusing on **deep learning, computer vision, model evaluation, LLM/RAG systems, and agentic coding workflows**.
+My primary focus is **backend engineering with Java and Spring Boot**, including API design, domain modeling, security, data management, and system integrations. Alongside this, I am expanding my knowledge of **machine learning, computer vision, LLM/RAG systems, and agentic developer tooling**.
 
 I care about more than making something work: I like examining its architecture, assumptions, failure modes, and real-world limitations.
 
@@ -51,4 +51,4 @@ I care about more than making something work: I like examining its architecture,
 * 🐦 [Medium](https://medium.com/@gencberke)
 * 📧 [berkegenc.dev@gmail.com](mailto:berkegenc.dev@gmail.com)
 
-## Keep Roll'in 🤘
+## Keep Rollin' 🤘
