@@ -1,11 +1,13 @@
-<h1 align="center">Hi, I'm Berke Genç 👋</h1>
+<h1 align="center">Hi, I'm Berke Genc 👋</h1>
 
+<p align="center">
 ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʔ•̫͡•ʔ
+</p>
 
 <p align="center">
   <strong>Software Engineering Student</strong>
   <br />
-  Backend Systems · Applied AI & Computer Vision · LLM/RAG Systems · Agentic Developer Tooling
+  Java & Spring Boot · Backend Engineering · System Design · Applied AI & Machine Learning
 </p>
 
 <p align="center">
@@ -28,10 +30,10 @@ I care about more than making something work: I like examining its architecture,
 
 ## Areas of Focus
 
-* **Backend Engineering** — domain modeling, REST APIs, authentication, relational data, integrations, and maintainable system design
-* **Applied Machine Learning** — data preparation, leakage prevention, model training, cross-validation, benchmarking, and error analysis
-* **Computer Vision** — transfer learning, fine-tuning, image classification, object detection, and real-world video evaluation
-* **LLM & RAG Systems** — retrieval pipelines, structured outputs, evaluation, and keeping probabilistic models outside deterministic decision paths
+* **Backend Engineering** — building maintainable server-side applications with Java and Spring Boot, with a focus on domain modeling, layered architecture, REST APIs, and clean code
+* **Spring Ecosystem** — Spring Security, Spring Data JPA, validation, authentication and authorization, API design, testing, and external service integrations
+* **Data & System Design** — relational databases, transaction boundaries, caching, messaging, API contracts, and designing reliable application workflows
+* **Applied AI & Machine Learning** — currently learning deep learning, computer vision, LLM/RAG systems, model evaluation, and practical AI integration into software products
 * **Agentic Developer Tooling** — multi-agent routing, scoped delegation, verification, and cost-aware coding workflows
 
 ## Technical Toolkit
